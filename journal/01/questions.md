@@ -9,7 +9,7 @@
     > | ANSWER HERE |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > a priority parameter to see what css is ignored
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
     > | ANSWER HERE |
