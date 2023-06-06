@@ -12,7 +12,7 @@
     > a priority parameter to see what css is ignored
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | lack of structure in code can cause the whole thing to break if one thing supercedes too many.
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,7 +22,7 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > | Selectors, properties, and values.
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
