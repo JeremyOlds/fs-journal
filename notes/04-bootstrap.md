@@ -35,3 +35,4 @@ sticky-top = sticks the element to its direct parent.
 img-fluid = command that tells the image is not allowed to spill outside its column
 rounded = adds rounding to the border
 btn = changes styling of a button. can also use btn-outline-(color) to make an outline button that highlights.
+order = sets the order
