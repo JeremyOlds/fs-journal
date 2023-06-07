@@ -6,7 +6,7 @@
     > Making a Directory
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > a state of an element that changes due to some special interaction. a button highlighting when you hover over it.
 
 04. What is ***specificity*** and how might you use it to your benefit?
     > a priority parameter to see what css is ignored
@@ -25,7 +25,7 @@
     > | Selectors, properties, and values.
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > A better designed website can make people want to come back and also lead people to the desired zones of the website we are interested in people viewing.
 
 08. What is the purpose of ***wireframing***?
     > | ANSWER HERE |
