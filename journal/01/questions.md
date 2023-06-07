@@ -34,7 +34,7 @@
     > | ANSWER HERE |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > sets up flexible lengths for all direct child elements within the parent.
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > Height and Width
