@@ -28,10 +28,10 @@
     > A better designed website can make people want to come back and also lead people to the desired zones of the website we are interested in people viewing.
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > it is a creation of a basic layout of how you are going to design a website in its structural level.
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > yes. it allows creators to have an idea as to how they wish to form the design of the website.
 
 10. Define the display `:flex property:`
     > sets up flexible lengths for all direct child elements within the parent.
