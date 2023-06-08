@@ -11,6 +11,18 @@ specificity is important as to not ignore some of your code.
 vh = viewheight. sizes things to the % size of the viewport of the screen.
 em = another size for font. 1em = 16 pixels
 
+:root {} allows you to create variables that can be used through the different css classes. example"
+:root{--snow: #fd76fxe;} can call --snow to see the color
+
+<!-- Media Rules -->
+<!-- setting the screen parameters on the media -->
+@media (max-width 768px){
+  <!-- any rules we add in the media rule, will occur when the screen is below this size -->
+  .class-call{
+    undo any changes you dont wish for and add in the new changes
+  }
+}
+
 
 commands:
 
@@ -27,3 +39,7 @@ object-position: telling where to focus on the image.
 box-shadow: adding shadows to elements that aren't text. such as images or divs
 font-weight: change the font to be bold/thicker.
 font-size:changes the font size.
+background-img: allows you to set the background as an image
+background size: sets the size of the background. 
+background position: sets the position of the background. can be adjusted with %
+background-repeat:
