@@ -24,3 +24,5 @@ material design icons is a website to allow you to use different
 I tag are common for bringing in icons from mdi
 
 a tags are for links
+
+onclick is a feature to call from javascript.
