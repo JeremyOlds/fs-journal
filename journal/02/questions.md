@@ -1,11 +1,11 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > let and const
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > a block of code that can be manually run as many times as neccessary.
 
 03. What are the `SOLID` principles?
 
@@ -42,7 +42,7 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > Arguments are given in the html code which js functions pull into the parameter section for their code.
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
@@ -54,4 +54,7 @@
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > for(i = -100; i > 100; i++){
+        console.log(i)
+        i++;
+    }
