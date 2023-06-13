@@ -37,3 +37,21 @@ function sayHello() {
 }
 
 console.group() and console.groupEnd() - allows you to group up console logs 
+
+% Array Functions
+% Reference the animalMurderMystery lecture code for examples
+lamda arrow - => to run a parameter set in the function function.
+
+.forEach - function to run for each member of the array
+.find - function to find a parameter for an object in an array. only finds the first one.
+.filter - function to filter all members in an array that fit the parameters set
+.sort - allows you to compare parameters between members of the array and sort them.
+.map - changes the properties of the array and creates a new array
+
+
+math.random() - function to create a random number
+math.floor() - returns the greatest integer less than or equal to the nearest integer. rounds down to the nearest whole number.
+math.ceil() - rounds up to the nearest whole number
+
+window.prompt - will create a new window that has a prompt for user
+window.alert - create
