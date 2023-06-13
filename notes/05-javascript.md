@@ -47,6 +47,7 @@ lamda arrow - => to run a parameter set in the function function.
 .filter - function to filter all members in an array that fit the parameters set
 .sort - allows you to compare parameters between members of the array and sort them.
 .map - changes the properties of the array and creates a new array
+.includes - determines whether an array includes a certain element
 
 
 math.random() - function to create a random number
