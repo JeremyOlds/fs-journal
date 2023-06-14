@@ -26,3 +26,6 @@ I tag are common for bringing in icons from mdi
 a tags are for links
 
 onclick is a feature to call from javascript.
+
+ul - unorder list tag
+il - list item tag. to be put in

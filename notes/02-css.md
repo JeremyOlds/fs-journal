@@ -43,3 +43,5 @@ background-img: allows you to set the background as an image
 background size: sets the size of the background. 
 background position: sets the position of the background. can be adjusted with %
 background-repeat:
+overflow - if anything overflows on the designated axis it creates a scroll bar.
+  determine the axis with x or y and auto is the parameter.

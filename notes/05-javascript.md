@@ -36,6 +36,8 @@ function sayHello() {
 
 }
 
+
+
 console.group() and console.groupEnd() - allows you to group up console logs 
 
 % Array Functions
@@ -43,11 +45,21 @@ console.group() and console.groupEnd() - allows you to group up console logs
 lamda arrow - => to run a parameter set in the function function.
 
 .forEach - function to run for each member of the array
+examples.forEach(example => {
+  loop text
+})
 .find - function to find a parameter for an object in an array. only finds the first one.
+examples.find(example => example.name == whateverYouAreLookingFor)
 .filter - function to filter all members in an array that fit the parameters set
+examples.filter(example => example.property == something)
 .sort - allows you to compare parameters between members of the array and sort them.
+examples.sort(example => example.property)
 .map - changes the properties of the array and creates a new array
+
 .includes - determines whether an array includes a certain element
+
+/*html*/ `` - allows the inner html to look like its being written in html
+
 
 
 math.random() - function to create a random number
@@ -56,3 +68,4 @@ math.ceil() - rounds up to the nearest whole number
 
 window.prompt - will create a new window that has a prompt for user
 window.alert - create
+window.confirm - creates a window with a true or false boolean return
