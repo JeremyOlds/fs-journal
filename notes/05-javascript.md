@@ -55,6 +55,7 @@ examples.filter(example => example.property == something)
 .sort - allows you to compare parameters between members of the array and sort them.
 examples.sort(example => example.property)
 .map - changes the properties of the array and creates a new array
+.querySelector - 
 
 .includes - determines whether an array includes a certain element
 

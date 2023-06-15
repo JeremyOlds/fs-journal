@@ -9,15 +9,19 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    >Single Responsibility, Open Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
 
 04. Given this array: How could you remove the `pineapple`?
 
     ```js
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
+    fruit.forEach(item => {
+    > if(item == pineapple){
+        
+    }
 
-    > | ANSWER HERE |
+    })
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,11 +38,16 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > you.friends.push(them.name)
+    them.friends.push(you.name)
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > if(example == 5){
+        example = 6
+    } else{
+        example = 5
+    }
 
 07. What is the main difference between `parameters` and `arguments`?
 
@@ -50,7 +59,7 @@
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > Reference value references an element from an object or array, while primitive creates it's own element that is standalone.
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 

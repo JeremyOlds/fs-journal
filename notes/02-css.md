@@ -45,3 +45,7 @@ background position: sets the position of the background. can be adjusted with %
 background-repeat:
 overflow - if anything overflows on the designated axis it creates a scroll bar.
   determine the axis with x or y and auto is the parameter.
+flex-grow - allows the container to fill in the flex space between containers.
+
+PsuedoSelectors:
+hover - applies effect when mouse hovers over
