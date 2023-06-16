@@ -55,7 +55,7 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > you can check the error logs.
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
