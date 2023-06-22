@@ -56,6 +56,7 @@ examples.filter(example => example.property == something)
 examples.sort(example => example.property)
 .map - changes the properties of the array and creates a new array
 .querySelector - 
+.join - operat
 
 .includes - determines whether an array includes a certain element
 
@@ -72,3 +73,4 @@ window.alert - create
 window.confirm - creates a window with a true or false boolean return
 
 preventDefault() - function used to prevent the default event from happening
+

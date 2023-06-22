@@ -47,3 +47,4 @@ color - a type for creating a field that allows you to select a color from the c
 
 
 onsubmit - form validation to tell it to run code instead of refreshing the page.
+onblur - 

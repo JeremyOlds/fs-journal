@@ -31,7 +31,7 @@ debugger - if console is open, as soon as you hit the line of code it will open 
 
 industry standard - put _ before functions that are 
 
-listeners - on an event run a function.
+listeners - on an event run a function. listeners listen for any change ( setting by =) to the item you are listening to.
 exampe: AppState.on('what you are watching', function you want to run)
 
 emitter - how to manually activate a listener
