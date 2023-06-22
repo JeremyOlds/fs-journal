@@ -70,3 +70,5 @@ math.ceil() - rounds up to the nearest whole number
 window.prompt - will create a new window that has a prompt for user
 window.alert - create
 window.confirm - creates a window with a true or false boolean return
+
+preventDefault() - function used to prevent the default event from happening

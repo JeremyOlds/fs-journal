@@ -29,3 +29,21 @@ onclick is a feature to call from javascript.
 
 ul - unorder list tag
 il - list item tag. to be put in
+
+type Module on script
+
+- forms -
+each form needs a label and an input match. id of the input must match the for of the label
+
+id - id for the input. match it to the for of the label
+name - should match the parameters of t he object you wish it to link to.
+required - parameter that makes the field required to have an input for the form to submit.
+
+type - input parameter to determine what kind of input field you get
+text- a type for creating a basic single line field of input.
+textarea - a type for creating an area of text like a description
+checkbox - a type for creating a checkbox
+color - a type for creating a field that allows you to select a color from the color spectrum
+
+
+onsubmit - form validation to tell it to run code instead of refreshing the page.
