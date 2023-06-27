@@ -14,3 +14,8 @@ await - causes
 
 axios - program that makes it easier to add api's to our code
 axios.create()
+
+
+
+
+auth0 needs all fields to be filled in for it to properly work.
