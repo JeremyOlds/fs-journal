@@ -13,7 +13,7 @@
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > callback is the act of holding a block of code to be run later until a result is given
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
