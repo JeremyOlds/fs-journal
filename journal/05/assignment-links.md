@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/JeremyOlds/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/JeremyOlds/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/JeremyOlds/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/JeremyOlds/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/JeremyOlds/burgerShack)**
+* **[Repo]()**
+* **[Repo]()**
+* **[Repo]()**
