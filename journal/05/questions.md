@@ -17,11 +17,13 @@
 
 05. In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 
-  > | ANSWER HERE |
+  > Asyncronous, Synchronous
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | ANSWER HERE |
+  > one to one, person and SSN. one person only has one SSN and vice versa
+  one to many, blog to posts. one blog can have many posts but the posts are all part of a single blog
+  many to many, authors to books. many authors can write a book and many books can be written by an author
 
 07. What is middleware?
 
@@ -37,4 +39,4 @@
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > Additional fields for a given model
