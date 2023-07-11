@@ -65,3 +65,5 @@ once you create a schema, go to the DbContext and add a new collection for the g
 .save() - Invoked from an object pulled from the database. If any values from the object were changed, this will save those changes to the database. Mongoose DOC save
 
 .remove() - Invoked from an object pulled from the database. This will remove that item from the DB. Mongoose DOC remove
+
+
