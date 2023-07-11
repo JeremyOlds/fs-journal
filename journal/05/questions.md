@@ -5,11 +5,11 @@
 
 02. Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 
-  > | ANSWER HERE |
+  > post is to create, put is to update, get is to read, delete is to destroy
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > | ANSWER HERE |
+  > object relational mapping. mongoose
 
 04. Which two `HTTP` request types include a body?
 
@@ -27,11 +27,11 @@
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > an application that serves as a bridge between a database and application
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > Request and Response
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
