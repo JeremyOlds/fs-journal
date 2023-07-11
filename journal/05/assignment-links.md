@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
 * **[Repo](https://github.com/JeremyOlds/burgerShack)**
-* **[Repo]()**
+* **[Repo](https://github.com/JeremyOlds/Gregslist_Node)**
 * **[Repo]()**
 * **[Repo]()**
