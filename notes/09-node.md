@@ -36,6 +36,10 @@ postman is a tool that mocks having a client built out and can send requests on 
 
 .use - middleware to determine everything below the use command must use the given function/item inside the commands. IE use auth0 to
 
+for Enums on schemas type is the type that you want the enum to be, followed up b enum:[acceptable parameters]
+
+query
+
 
 
 - Mongoose -
