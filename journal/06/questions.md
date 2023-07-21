@@ -1,7 +1,7 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+  > an entry point is the place in a program where the execution of a program begins, and where the program has access to command line arguments.
 
 02. What is the difference between a vue `component` and `page`?
 
@@ -21,7 +21,7 @@
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > router-view
 
 07. What is the difference between the `AppState` and the state object within a component?
 
@@ -37,4 +37,4 @@
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > Computed
