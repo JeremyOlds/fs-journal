@@ -5,7 +5,7 @@
 
 02. What is the difference between a `class` and an `interface`?
 
-  > | ANSWER HERE |
+  > a class has both a definition and an implementation whereas an interface only has a definition.
 
 03. What is the method that returns an instance of a class, yet it has no return type?
 
@@ -25,11 +25,11 @@
   }
   ```
 
-  > | ANSWER HERE |
+  > public
 
 06. In the Car example what is `string` an indication of?
 
-  > | ANSWER HERE |
+  > data type
 
 07. In the Car example what is `abstract` preventing?
 
