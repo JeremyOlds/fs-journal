@@ -28,6 +28,13 @@ example: foreach(string name in names)
 string interpolation exists but the $ must be outside the quotes.
 example: Console.WriteLine($"insert text here {interpolated things here}")
 
+namespace- acts as our export for c#
+using - acts as our import system
+
+
+readonly - equivilant of a const from javascript
+
+
 relearn syntax on csharp
 string methods:
   ToUpper - uppercase everything in string

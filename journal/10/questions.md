@@ -1,7 +1,7 @@
 # CSharp and SQL Fundamentals
 01. What is the purpose of a `namespace`?
 
-  > | ANSWER HERE |
+  > exporting classes and methods within classes
 
 02. What is the difference between a `class` and an `interface`?
 
@@ -9,7 +9,7 @@
 
 03. What is the method that returns an instance of a class, yet it has no return type?
 
-  > | ANSWER HERE |
+  > void
 
 05. In the Car example what is the access modifier of the `Start()` method?
 
