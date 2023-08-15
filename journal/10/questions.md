@@ -33,7 +33,7 @@
 
 07. In the Car example what is `abstract` preventing?
 
-  > | ANSWER HERE |
+  > Implementation
 
 08. In a SQL table, what is the difference between information in a row and information in a column?
 
@@ -51,4 +51,17 @@
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > unions, joins, and selects.
+  SELECT table1name.column1name, table2name.column2name 
+  FROM table1name, table2name 
+  WHERE table1name.column1name = table2name.column1name;
+
+  SELECT table1.column1,table1.column2,table2.column1,....
+  FROM table1  
+  JOIN table2
+  ON table1.matching_column = table2.matching_column;
+
+  SELECT column1, column2 as Two, column3 as Three 
+  FROM table1 
+  UNION SELECT column1, column4 as Two, column5 as Three 
+  FROM table2;
