@@ -45,4 +45,10 @@
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > Join
+
+  SELECT
+  movies.*,
+  accounts.*
+  FROM movies
+  JOIN accounts ON acc.id = movie.creatorId
