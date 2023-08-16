@@ -33,15 +33,21 @@
 
 07. In the Car example what is `abstract` preventing?
 
-  > | ANSWER HERE |
+  > Implementation
 
 08. In a SQL table, what is the difference between information in a row and information in a column?
 
-  > | ANSWER HERE |
+  > rows are an instance of data in the table, while colums are a schema/layout for said data to follow.
 
 09. Demonstrate the necessary SQL for creating a table called `characters` with the values `name, age, description` as strings, and an `int` id.
 
-  > | ANSWER HERE |
+  > CREATE TABLE
+    characters(
+      id INT NOT NULL primary key AUTO_INCREMENT,
+      name VARCHAR(255) NOT NULL,
+      age VARCHAR(255) NOT NULL,
+      description VARCHAR(255)
+    )default cahrset utf8 COMMENT '';
 
 10. In SQL how can you query more than a single table? Provide an example.
 
